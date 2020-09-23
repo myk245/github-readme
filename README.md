@@ -33,5 +33,5 @@
 
 [twitter]: https://twitter.com/KeiCindy
 [linkedin]: https://www.linkedin.com/in/cindy-kei/
-[website]: http://www.cindykei.com/# github-readme
-# github-readme
+[website]: http://www.cindykei.com/
+
