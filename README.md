@@ -19,9 +19,11 @@
 - Sass
 
 ### Connect With Me: 
-Portfolio: [<img align="left" alt ="Cindy's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-LinkedIn: [<img align="left" alt ="Cindy's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-Twitter: [<img align="left" alt ="Cindy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt ="Cindy's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img align="left" alt ="Cindy's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt ="Cindy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt ="Cindy's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>][medium]
+
 
 <br>
 
@@ -34,4 +36,4 @@ Twitter: [<img align="left" alt ="Cindy's Twitter" width="22px" src="https://cdn
 [twitter]: https://twitter.com/KeiCindy
 [linkedin]: https://www.linkedin.com/in/cindy-kei/
 [website]: http://www.cindykei.com/
-
+[medium]: https://medium.com/@cindylouwho92
