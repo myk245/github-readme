@@ -1,6 +1,6 @@
-## Hello there, I'm Cindy, a Fullstack Software Engineer based in NYC. 
+# Hello there! I'm Cindy, a Fullstack Software Engineer based in NYC. 
 
-### I am passionate about creating social change and making a difference through innovative, powerful technologies. 
+## I am passionate about creating social change and making a difference through innovative, powerful technologies. 
 
 ### Currently working on: 
 - Learning Python
@@ -19,9 +19,9 @@
 - Sass
 
 ### Connect With Me: 
-[<img align="left" alt ="Cindy's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt ="Cindy's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt ="Cindy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+Portfolio: [<img align="left" alt ="Cindy's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+LinkedIn: [<img align="left" alt ="Cindy's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+Twitter: [<img align="left" alt ="Cindy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 
 <br>
 
