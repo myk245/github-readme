@@ -1,12 +1,13 @@
-# Hello there! I'm Cindy, a Fullstack Software Engineer based in NYC. 
+# 👋🏼 Hello there! I'm Cindy, a Fullstack Software Engineer based in NYC. 👩🏻‍💻
 
 ## I am passionate about creating social change and making a difference through innovative, powerful technologies. 
+💻    🌏    📱    💡
 
 ### Currently working on: 
-- Learning Python
-- A plant care tracker app built with JavaScript
-- Taking my CSS and Sass skills to the next level
-- Contributing to more open source projects 
+- Learning Python 🐍
+- A plant care tracker app built with JavaScript 🌱
+- Taking my CSS and Sass skills to the next level 🌈
+- Contributing to more open source projects 👩‍💻🧑‍💻👨‍💻
 
 ### Technologies: 
 - JavaScript
