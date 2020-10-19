@@ -19,6 +19,8 @@
 - PostgreSQL
 - Sass
 
+### Open to work opportunities -- I'd love to work with you!
+
 ### Connect With Me: 
 [<img align="left" alt ="Cindy's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt ="Cindy's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
