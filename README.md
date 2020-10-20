@@ -7,6 +7,7 @@
 - Learning Python 🐍
 - A plant care tracker app built with JavaScript 🌱
 - Taking my CSS and Sass skills to the next level 🌈
+- My first chatbot 🤖
 - Contributing to more open source projects 👩‍💻🧑‍💻👨‍💻
 
 ### Technologies: 
