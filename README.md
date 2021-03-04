@@ -4,9 +4,10 @@
 💻    🌏    📱    💡
 
 ### Currently working on: 
+- Front End Web Development at Divercity
 - Learning Python 🐍
 - A plant care tracker app built with JavaScript 🌱
-- Taking my CSS and Sass skills to the next level 🌈
+- Taking my CSS skills to the next level 🌈
 - My first chatbot 🤖
 - Contributing to more open source projects 👩‍💻🧑‍💻👨‍💻
 
@@ -19,6 +20,7 @@
 - CSS
 - PostgreSQL
 - Sass
+- Styled Components
 
 ### Open to work opportunities. I'd love to work with you!
 
