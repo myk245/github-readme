@@ -4,8 +4,7 @@
 💻    🌏    📱    💡
 
 ### Currently working on: 
-- Front End Web Development at Divercity
-- Learning Python 🐍
+- Front End Web and Mobile Development at Divercity
 - A plant care tracker app built with JavaScript 🌱
 - Taking my CSS skills to the next level 🌈
 - My first chatbot 🤖
@@ -14,6 +13,7 @@
 ### Technologies: 
 - JavaScript
 - React
+- React Native
 - Ruby
 - Ruby on Rails
 - HTML
