@@ -1,4 +1,4 @@
-# 👋🏼 Hello there! I'm Cindy, a Fullstack Software Engineer based in NYC. 👩🏻‍💻
+# 👋🏼 Hello there! I'm Cindy, a Fullstack Software Engineer. 👩🏻‍💻
 
 ## I am passionate about creating social change and making a difference through innovative, powerful technologies. 
 💻    🌏    📱    💡
@@ -7,8 +7,8 @@
 Highly motivated and growth-minded Full-Stack Software Engineer with a focus on the User Experience. Curious self-starter with a proven ability in cross-team collaboration. Excited for the opportunity to use my technical and people skills to build thoughtful solutions that create a positive impact. 
 
 ### Technologies: 
-Languages/Frameworks: JavaScript, Ruby, React, React Native, Rails
-Misc: jQuery, Node.js, Git, RESTful APIs, HTML, CSS, ES6, Active Record, Express, JSON, Object Oriented Programming, Web Development, Agile Development, Responsive Design, AWS, Firebase, PostgreSQL, MongoDB, Database Architecture
+**Languages/Frameworks**: JavaScript, Ruby, React, React Native, Rails
+**Misc**: jQuery, Node.js, Git, RESTful APIs, HTML, CSS, ES6, Active Record, Express, JSON, Object Oriented Programming, Web Development, Agile Development, Responsive Design, AWS, Firebase, PostgreSQL, MongoDB, Database Architecture
 
 ### Open to work opportunities. I'd love to work with you!
 
