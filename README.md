@@ -1,9 +1,9 @@
 # 👋🏼 Hello there! I'm Cindy, a Fullstack Software Engineer. 👩🏻‍💻
 
+### Software Engineer @CommonLit
+
 ## I am passionate about creating social change and making a difference through innovative, powerful technologies. 
 💻    🌏    📱    💡
-
-## Software Engineer @CommonLit
 
 ## About Me
 Highly motivated and growth-minded Full-Stack Software Engineer with a focus on user experience. Curious self-starter with a proven ability in cross-team collaboration. I am motivated by the opportunity to build thoughtful solutions that create a positive impact. 
