@@ -3,14 +3,14 @@
 ## I am passionate about creating social change and making a difference through innovative, powerful technologies. 
 💻    🌏    📱    💡
 
+## Software Engineer @CommonLit
+
 ## About Me
-Highly motivated and growth-minded Full-Stack Software Engineer with a focus on the User Experience. Curious self-starter with a proven ability in cross-team collaboration. Excited for the opportunity to use my technical and people skills to build thoughtful solutions that create a positive impact. 
+Highly motivated and growth-minded Full-Stack Software Engineer with a focus on user experience. Curious self-starter with a proven ability in cross-team collaboration. I am motivated by the opportunity to build thoughtful solutions that create a positive impact. 
 
 ### Technologies: 
 **Languages/Frameworks**: JavaScript, Ruby, React, React Native, Rails
-**Misc**: jQuery, Node.js, Git, RESTful APIs, HTML, CSS, ES6, Active Record, Express, JSON, Object Oriented Programming, Web Development, Agile Development, Responsive Design, AWS, Firebase, PostgreSQL, MongoDB, Database Architecture
-
-### Open to work opportunities. I'd love to work with you!
+**Misc**: jQuery, Node.js, Git, RESTful APIs, HTML, CSS, ES6, Active Record, Express, JSON, Object Oriented Programming, Web Development, Agile Development, Responsive Design, AWS, Firebase, PostgreSQL, MongoDB, Database Architecture, Heroku, Agile Development
 
 ### Connect With Me: 
 [<img align="left" alt ="Cindy's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
