@@ -1,15 +1,12 @@
 # 👋🏼 Hello! My name is Cindy Kei. 
 
 
-### I am a Full-Stack Software Engineer @CommonLit. 👩🏻‍💻
-
-
 ## I am passionate about creating social change and making a difference through innovative, powerful technologies. 
 💻    🌏    📱    💡
 
 
 ## About Me
-Highly motivated and growth-minded Full-Stack Software Engineer with a focus on user experience. Curious self-starter with a proven ability in cross-team collaboration. I am motivated by the opportunity to build thoughtful solutions that create a positive impact. 
+Highly motivated and growth-minded Full-Stack Software Engineer with a focus on user experience. Curious self-starter with a proven ability in cross-team collaboration. Motivated by the opportunity to build thoughtful solutions that create a positive impact. 
 
 ### Technologies: 
 **Languages/Frameworks**: JavaScript, Ruby, React, React Native, Rails
