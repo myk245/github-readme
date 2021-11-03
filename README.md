@@ -1,5 +1,7 @@
 # 👋🏼 Hello! My name is Cindy Kei. 
+
 I am a Full-Stack Software Engineer who is passionate about creating social change and making a difference through innovative, powerful technologies. 
+
 💻    🌏    📱    💡
 
 
