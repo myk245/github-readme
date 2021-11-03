@@ -1,7 +1,7 @@
 # 👋🏼 Hello! My name is Cindy Kei. 
 
 
-## I am a Full-Stack Software Engineer @CommonLit. 👩🏻‍💻
+### I am a Full-Stack Software Engineer @CommonLit. 👩🏻‍💻
 
 
 ## I am passionate about creating social change and making a difference through innovative, powerful technologies. 
